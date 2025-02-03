@@ -1,0 +1,13 @@
+Este código faz o seguinte:
+
+Conecta-se a um banco de dados SQLite (ou cria um novo se não existir).
+
+Cria uma tabela chamada clientes se ela ainda não existir.
+
+Insere alguns dados de exemplo na tabela.
+
+Consulta todos os dados da tabela clientes.
+
+Exibe os resultados da consulta.
+
+Fecha a conexão com o banco de dados.
